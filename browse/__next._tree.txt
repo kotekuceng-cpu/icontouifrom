@@ -1,0 +1,5 @@
+:HL["/icontouifrom/_next/static/chunks/77cfc1a7e18d37d2.css","style"]
+:HL["https://cdn.jsdelivr.net/npm/@fontsource-variable/geist/index.css","style"]
+:HL["https://cdn.jsdelivr.net/npm/@fontsource-variable/geist-mono/index.css","style"]
+:HL["https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/LINESeedSansTH/LINESeedSansTH.css","style"]
+0:{"buildId":"mjgO8QZT8IfnwwDQoE_Zj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"browse","paramType":null,"paramKey":"browse","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
